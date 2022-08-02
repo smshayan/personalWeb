@@ -1,0 +1,164 @@
+body{
+  margin: 0;
+  font-family:'LEMON MILK','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+   color: #C7FFED;
+  background-color: #015958;
+  line-height: 2;
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+.btn {
+  background-color: #004b49;;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px auto 30px auto;
+}
+
+.btn:hover {
+  background-color: #013635;
+  /* Green */
+  color: white;
+}
+
+.heading{
+  font-size: 40px;
+}
+
+.sec_1 {
+  background-color: #015958;
+  position: relative;
+  padding-top:  50px;
+  height: 100%;
+}
+
+.middle-container{
+  margin-top: 10%;
+}
+
+.aboutMeDes{
+  width: 50%;
+  margin: auto;
+}
+
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+
+
+}
+.intro-services{
+  font-size: 1.5rem;
+  font-weight: normal;
+  
+}
+
+h2 , h1 {
+  color: #66BFBF;
+  
+}
+
+
+
+.clouds{
+  position: absolute ;
+}
+#mountain_img{
+  padding-top: 89px;
+  height: 50%;
+}
+#cloud_one{
+  margin-top: 50px;
+  margin-left: 200px;
+}
+#cloud_two {
+  margin-top: 50px;
+  margin-left: 0px;
+}
+
+h3 , a {
+  color: #11999E;
+}
+
+.skills{
+  margin-top: 50px;
+}
+
+.skill-img {
+  
+width: 25%;  
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skill-des{
+  line-height: 2;
+}
+.skills{
+  text-align: left;
+}
+
+
+
+#dev{
+  float: left;
+  margin-right: 30px;
+}
+
+#paint{
+  float: left;
+  margin-left: 30px;
+  
+}
+
+
+
+.profile {
+  margin: 50px auto 50px auto;
+
+
+}
+
+.profilePic{
+  border-radius: 100%;
+}
+
+h2{
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 20px dotted #95c9c9 ;
+  height: 1px;
+  width: 20%;
+  opacity: 30%;
+}
+
+.bottom-container{
+  background-color: #95c9c9;
+  margin: 0;
+}
+
+a{
+  
+  text-decoration: none;
+}
+
+.footer-link{
+  margin: 20px;
+
+}
